@@ -1,0 +1,23 @@
+retailer_class_name,retailer_id,retailer_internal_id,email_label,file_extensions
+SalonCentric,C000001 Salon Centric Inc,308,Retail_Reports-Salon_Centric,xlsx
+BSG,C017122 Beauty Systems Group LLC,17743,Retail_Reports-BSG,xlsx;xls
+HaircareAustralia,C018476 HairCare Australia,22546,Retail_Reports-Hair_Care_Australia,xlsx
+NewFlag,C032789 New Flag GmbH,117169,Retail_Reports-New_Flag,xlsx
+Baldacci,C032858 Baldacci AB,119377,Retail_Reports-Baldacci,csv
+ADI,C033038 ADI srl,128883,Retail_Reports-ADI,xlsx
+Sephora,C050439 Sephora,1210192,Retail_Reports-Sephora,xlsx
+AmazonUS,"C082025 Amazon.com, Inc.",4021653,Retail_Reports-Amazon,csv
+AmazonGB,"C090550 Amazon.co.uk, Inc.",4851711,Retail_Reports-Amazon_GB,csv
+JCPenney,C093604 JC Penney,5006570,Retail_Reports-JCP,xlsx
+Sephora,"C095719 Sephora Beauty Canada, Inc.",5077296,Retail_Reports-Sephora,xlsx
+AmazonDE,C098365 Amazon.de Gmbh,5158724,Retail_Reports-Amazon_DE,csv
+CultBeauty,C104468 Cult Beauty,5356690,Retail_Reports-Cult_Beauty,xlsx
+AmazonCA,"C113298 Amazon.ca, Inc.",5738680,Retail_Reports-Amazon_CA,csv
+SallyUKProDuo,C128878 Sally Salon Services,6598548,Retail_Reports-SallyUK_ProDuo,xlsx
+AstonAndFincher,C132331 Aston & Fincher Ltd,6666767,Retail_Reports-Aston_and_Fincher,xlsx
+THG,C132647 The Hut Group UK,6678970,Retail_Reports-THG,xlsx
+SallyBeautyMexico,C154101 Sally Beauty Mexico,7067258,Retail_Reports-Sally_Beauty_Mexico,XLSX
+SallyUKProDuo,C155330 Pro-Duo NV/SA,7101588,Retail_Reports-SallyUK_ProDuo,xlsx
+ASOS,C183194 ASOS.com,7608560,Retail_Reports-ASOS,zip
+AmazonFR,C211548 Amazon.fr,7836507,Retail_Reports-Amazon_FR,csv
+AmazonES,C216404 Amazon.es,7863519,Retail_Reports-Amazon_ES,csv

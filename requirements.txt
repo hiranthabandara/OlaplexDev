@@ -1,0 +1,16 @@
+google-api-core==1.21.0
+google-api-python-client==1.9.3
+google-auth==1.18.0
+google-auth-httplib2==0.0.3
+google-auth-oauthlib==0.4.1
+googleapis-common-protos==1.52.0
+boto3~=1.17.85
+openpyxl~=3.0.7
+pandas~=1.2.4
+awscli~=1.19.85
+psycopg2-binary~=2.8.6
+apache-airflow~=2.1.0
+pytz~=2021.1
+python-dateutil~=2.8.1
+sphinx~=4.0.2
+sphinx-rtd-theme~=0.5.2
